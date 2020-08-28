@@ -2,7 +2,7 @@
 
 
 
-![](https://github.com/Mnpr/TimeSeries-DeepLearning/blob/master/tsf.png)
+![](/home/mnpr_term/Documents/MarkTextImages/308e0390b0780b960b3f3fb33c3ddd901631af81.png)
 
 @ Img: [cashanalytics.com](https://cdn1.cashanalytics.com/wp-content/uploads/2018/11/Statisical-cash-forecasting-methods-1.png)
 
