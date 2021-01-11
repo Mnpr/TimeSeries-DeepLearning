@@ -2,8 +2,6 @@
 
 ![](tsf.png)
 
-@ Img: [cashanalytics.com](https://cdn1.cashanalytics.com/wp-content/uploads/2018/11/Statisical-cash-forecasting-methods-1.png)
-
 ## Classical `ts` Forecasting Methodgit s
 
 1. Autoregression (AR)
@@ -24,8 +22,6 @@
 
 2. Prophet FB
 
-***
 
-## TODO
 
-- [ ] Transformers
+****
