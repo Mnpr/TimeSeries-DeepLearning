@@ -2,7 +2,7 @@
 
 ![](tsf.png)
 
-## Classical `ts` Forecasting Methodgit s
+## Classical `ts` Forecasting Methods
 
 1. Autoregression (AR)
 2. Moving Average (MA)
@@ -19,9 +19,6 @@
 ## Deep Learning : Time Series
 
 1. RNN( LSTM )
-
 2. Prophet FB
-
-
 
 ****
